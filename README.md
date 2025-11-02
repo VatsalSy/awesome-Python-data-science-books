@@ -5,6 +5,7 @@ Probably the best curated list of data science books in Python.
 
 ## Contents
 * [Statistics](#statistics)
+* [Code Optimization](#code-optimization)
 * [Data Analysis](#data-analysis)
 * [Data Intuition](#data-intuition)
 * [Feature Engineering](#feature-engineering)
@@ -12,7 +13,6 @@ Probably the best curated list of data science books in Python.
 * [Time Series](#time-series)
 * [Natural Language Processing](#natural-language-processing)
 * [Deep Learning](#deep-learning)
-* [Code Optimization](#code-optimization)
 * [Scraping](#scraping)
 * [Career in Data Science](#career-in-data-science)
 <h2 id='statistics'> Statistics <img src="images/calculating.png"></h2>
@@ -32,6 +32,19 @@ Probably the best curated list of data science books in Python.
 <br>Learn key topics in statistical learning. This book is perfect for those who want a gentle introduction all popular machine learning algorithms. 
 </details> 
 
+<h2 id='code-optimization'> Code Optimization <img src="images/code.png"></h2>
+<details><summary><a href="https://codecut.ai/production-ready-data-science/">Production-Ready Data Science: From Prototyping to Production with Python</a> - Khuyen Tran</summary>
+<br>A practical guide to building reliable, scalable, and maintainable data science projects in Python. Covers engineering best practices like version control, testing, logging, CI/CD, packaging, data validation, and deployment.
+</details>
+<details><summary><a href="https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301">Python Tricks: A Buffet of Awesome Python Features</a> - Dan Bader</summary>
+<br>Learn best practices and little-known tricks to round out your Python knowledge.
+</details> 
+<details><summary><a href="https://www.amazon.com/Python-Performance-Programming-Gabriele-Lanaro/dp/1783288450">Python High Performance Programming</a> - Gabriele Lanaro </summary>
+<br>Learn how to identify and sove the bottlenecks in your applications, write efficient numerical code in NumPy and Cython, and adapt your programs to run on multiple processors with parallel programming.
+</details>  
+<details><summary><a href="https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377">Python Cookbook</a> - David Beazley & Brian K. Jones </summary>
+<br>Learn the core Python language as well as tasks common to a wide variety of application domains such as data structures and algorithms, classes and objects, metaprogramming, modules and packages, testing, debugging, and exceptions.
+</details>  
 
 <h2 id='data-analysis'> Data Analysis <img src="images/bar-graph.png"></h2>
 <details><summary><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Storytelling with Data: A Data Visualization Guide for Business Professionals </a> - Cole Nussbaumer Knaflic</summary>
@@ -158,19 +171,6 @@ Probably the best curated list of data science books in Python.
 <br>Learn essential concepts in deep learning through visualization with little math. 
 </details>
 
-<h2 id='code-optimization'> Code Optimization <img src="images/code.png"></h2>
-<details><summary><a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287">Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series) </a> - Brett Slatkin</summary>
-<br>Learn how to choose the most efficient and effective way to accomplish key tasks when multiple options exist, and how to write Python code that's easier to understand, maintain, and improve.
-</details>  
-<details><summary><a href="https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301">Python Tricks: A Buffet of Awesome Python Features</a> - Dan Bader</summary>
-<br>Learn best practices and little-known tricks to round out your Python knowledge.
-</details> 
-<details><summary><a href="https://www.amazon.com/Python-Performance-Programming-Gabriele-Lanaro/dp/1783288450">Python High Performance Programming</a> - Gabriele Lanaro </summary>
-<br>Learn how to identify and sove the bottlenecks in your applications, write efficient numerical code in NumPy and Cython, and adapt your programs to run on multiple processors with parallel programming.
-</details>  
-<details><summary><a href="https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377">Python Cookbook</a> - David Beazley & Brian K. Jones </summary>
-<br>Learn the core Python language as well as tasks common to a wide variety of application domains such as data structures and algorithms, classes and objects, metaprogramming, modules and packages, testing, debugging, and exceptions.
-</details>  
 
 <h2 id='scraping'> Scraping <img src="images/scraping.png"></h2>
 <details><summary><a href="https://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291">Web Scraping with Python: Collecting Data from the Modern Web</a> - Ryan Mitchell </summary>
